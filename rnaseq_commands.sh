@@ -1,0 +1,1 @@
+/project/sjoh5773/1_linux/2_rnaseq/3_analysis/rnaseq_commands.sh
